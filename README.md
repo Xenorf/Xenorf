@@ -20,6 +20,6 @@ Couldn't get away from computers, so I learned to hack them.
 
 
 <div style="padding: 10px;">
-🌱 I’m currently learning <strong>everything I can</strong>
+🌱 I’m currently learning <strong>everything I can</strong>.
 </div>
 </div>
