@@ -6,6 +6,7 @@ Couldn't get away from computers, so I learned to hack them.
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=1000&color=F79018&center=true&vCenter=true&width=435&lines=Xenorf;Pentester" alt="Typing SVG" /></a>
 
+<a href="https://credentials.offsec.com/3b4254f2-b9cf-4077-a4f5-c88e4cb63998#acc.TcRI94Ks"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/137840851" alt="OffSec Exploitation Expert (OSEE)" title="OffSec Exploitation Expert (OSEE)" width="75"></a>
 <a href="https://credentials.offsec.com/40933a4d-bafb-4a1d-b38c-63761dcedb07#acc.D2YRpKsA"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/88400384" alt="OffSec Certified Expert 3 (OSCE3)" title="OffSec Certified Expert 3 (OSCE3)" width="75"></a>
 <a href="https://credentials.offsec.com/613f63ea-3434-4789-b9fe-90fb9770fc9d#acc.JRTc7Hm8"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79633641" alt="OffSec Exploit Developer (OSED)" title="OffSec Exploit Developer (OSED)" width="75"></a>
 <a href="https://credentials.offsec.com/6f74677c-ba46-4cbd-a6af-d3ea6f72da01#acc.uPR5ZkTf"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/83613477" alt="OffSec Experienced Penetration Tester (OSEP)" title="OffSec Experienced Penetration Tester (OSEP)" width="75"></a>
