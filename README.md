@@ -16,8 +16,11 @@ Couldn't get away from computers, so I learned to hack them.
 <a href="https://credentials.offsec.com/72d74693-bade-4e84-af67-759511196574#acc.DbIrWVe0"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/98591216" alt="OffSec Web Assessor (OSWA)" title="OffSec Web Assessor (OSWA)" width="75"></a>
 <a href="https://credentials.offsec.com/8e53f770-83ec-4273-8ec8-3c63ae11c692#acc.x9UrNahH"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/99313640" alt="OffSec Defense Analyst (OSDA)" title="OffSec Defense Analyst (OSDA)" width="75"></a>
 <a href="https://credentials.offsec.com/b5438400-b659-4d20-a64a-85f6e81b5d57#acc.SLb6Ojwn"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/94678446" alt="OffSec Wireless Professional (OSWP)" title="OffSec Wireless Professional (OSWP)" width="75"></a>
-<a href="https://www.credly.com/earner/earned/badge/7fec93b7-2d57-4398-abff-3ae7d9becfe9"><img src="https://images.credly.com/images/ad10e50c-93f9-4a43-9bf2-6646d476703e/image.png" alt="GIAC Mobile Device Security Analyst (GMOB)" title="GIAC Mobile Device Security Analyst (GMOB)" width="75"></a>
+<a href="https://www.credly.com/badges/17b9042e-fc7a-42c0-934d-29617576a6c1/public_url"><img src="https://images.credly.com/images/ad10e50c-93f9-4a43-9bf2-6646d476703e/image.png" alt="GIAC Mobile Device Security Analyst (GMOB)" title="GIAC Mobile Device Security Analyst (GMOB)" width="75"></a>
+<a href="https://www.credly.com/badges/f1f96766-a355-4862-8a93-a1c23d04f5e8/public_url"><img src="https://images.credly.com/images/f97424db-0114-4c38-b488-8cd179eb5a7a/image.png" alt="GIAC Reverse Engineering Malware (GREM)" title="GIAC Reverse Engineering Malware (GREM)" width="75"></a>
 <a href="https://api.eu.badgr.io/public/assertions/3QxPiMJuT6WV2Gr8pO1Bvg"><img src="https://media.eu.badgr.com/uploads/badges/assertion-3QxPiMJuT6WV2Gr8pO1Bvg.png" alt="Red Team Operator (CRTO)" title="Red Team Operator (CRTO)" width="75"></a>
+<a href="https://www.credly.com/badges/54c4ddae-dc6a-4bbb-a5e4-d0366623864e/public_url"><img src="https://images.credly.com/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png" alt="Certified Information Systems Security Professional (CISSP)" title="Certified Information Systems Security Professional (CISSP)" width="75"></a>
+
 
 
 <div style="padding: 10px;">
